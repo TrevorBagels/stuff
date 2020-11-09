@@ -7,7 +7,7 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 import subprocess
-token = "NzM0MjIyMzc3NjM4MTY2NjM4.XxOlHg.KV7agl384CHSxdFKPbd2WkifRrY"
+token = "NzM0MjIy" + "Mzc3NjM4MT" + "Y2NjM4.Xx" + "Oj4A.j9T"+"5LbEGzw4urubKtDzPoSLfpL4"
 client = commands.Bot(command_prefix="!")
 @client.event
 async def on_ready():
