@@ -7,7 +7,7 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 import subprocess
-token = "NzM0MjIy" + "Mzc3NjM4MT" + "Y2NjM4.Xx" + "Oj4A.j9T"+"5LbEGzw4urubKtDzPoSLfpL4"
+token = "NzM0MjIy" + "Mzc3NjM4MT" + "Y2NjM4.Xx" + "Oj4A.j9T"+"5LbEGzw4urubKtDzPoSLfpL4" #obviously a fake token... just kidding, i was dumb enough to put a bot token into my code on github, someone politely used it to make my bot tell me to change it's token. to the person that did that, thank you, I had forgotten that I left this token sitting here. 
 client = commands.Bot(command_prefix="!")
 @client.event
 async def on_ready():
